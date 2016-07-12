@@ -1,0 +1,12 @@
+C:\Users\juniorsantiago\Desktop\practicandoCapas\Practicando\SegundoParcial-JuniorSantiagoGuillenZ\DALL\bin\Debug\DALL.dll.config
+C:\Users\juniorsantiago\Desktop\practicandoCapas\Practicando\SegundoParcial-JuniorSantiagoGuillenZ\DALL\bin\Debug\DALL.dll
+C:\Users\juniorsantiago\Desktop\practicandoCapas\Practicando\SegundoParcial-JuniorSantiagoGuillenZ\DALL\bin\Debug\DALL.pdb
+C:\Users\juniorsantiago\Desktop\practicandoCapas\Practicando\SegundoParcial-JuniorSantiagoGuillenZ\DALL\bin\Debug\Entidad.dll
+C:\Users\juniorsantiago\Desktop\practicandoCapas\Practicando\SegundoParcial-JuniorSantiagoGuillenZ\DALL\bin\Debug\EntityFramework.dll
+C:\Users\juniorsantiago\Desktop\practicandoCapas\Practicando\SegundoParcial-JuniorSantiagoGuillenZ\DALL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juniorsantiago\Desktop\practicandoCapas\Practicando\SegundoParcial-JuniorSantiagoGuillenZ\DALL\bin\Debug\Entidad.pdb
+C:\Users\juniorsantiago\Desktop\practicandoCapas\Practicando\SegundoParcial-JuniorSantiagoGuillenZ\DALL\bin\Debug\EntityFramework.xml
+C:\Users\juniorsantiago\Desktop\practicandoCapas\Practicando\SegundoParcial-JuniorSantiagoGuillenZ\DALL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juniorsantiago\Desktop\practicandoCapas\Practicando\SegundoParcial-JuniorSantiagoGuillenZ\DALL\obj\Debug\DALL.csprojResolveAssemblyReference.cache
+C:\Users\juniorsantiago\Desktop\practicandoCapas\Practicando\SegundoParcial-JuniorSantiagoGuillenZ\DALL\obj\Debug\DALL.dll
+C:\Users\juniorsantiago\Desktop\practicandoCapas\Practicando\SegundoParcial-JuniorSantiagoGuillenZ\DALL\obj\Debug\DALL.pdb
